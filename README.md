@@ -2,6 +2,7 @@
 
 Sobreviva ao apocalipse! Uma interface web responsiva e interativa criada para apresentar o universo do Jogo Zumbi 2D, com informações sobre a história, controles, demonstração da jogabilidade e animações dinâmicas de zumbis.
 
+
 ⸻
 
 📖 Sobre o projeto
