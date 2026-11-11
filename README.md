@@ -173,7 +173,7 @@ assets/ — Imagens, animações GIF e arquivos de vídeo.
 
 1. Clonar o repositório
 
-git clone https://github.com/leehsantos13/interface_jogozumbi2d.git
+git clone 
 
 2. Abrir a pasta
 
